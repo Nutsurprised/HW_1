@@ -1,2 +1,2 @@
 # HW_1
-github collab
+This repository is meant to display how collaboration works in github. 
